@@ -1,0 +1,106 @@
+nav{
+    height: 130px;
+    background-color: rgb(19, 20, 20);
+}
+.HOME{
+    background: url(/sathya/images/wal3.jpg);
+    width: 100%
+}
+.nav-item a{
+    font-size: 30px;
+    color: white;
+
+}
+.nav-item a:hover{
+    color: rgb(167, 108, 20);
+}
+.btn0{
+    border-radius: 17%;
+    background-color: rgb(199, 22, 113);
+    width: 100px;
+    height: 50px;
+    font-size: 23px;
+}
+.btn0:hover{
+    background-color: rgb(21, 189, 15);
+}
+.d-flex input{
+    border-radius: 8%;
+
+}
+.btn1{
+    background-color: rgb(21, 185, 15);
+    font-size: 20px;
+    border-radius: 10px;
+    height: 45px;
+}
+.btn1:hover{
+    background-color: rgb(199, 22, 113);
+}
+.navbar-nav li{
+padding-top: 20px;
+padding: 20px;
+}
+.img-fluid{
+    color: black;
+}
+.row div{
+    padding: 25px;
+}
+.img-fluid:hover{
+    transform: translate(5px,3px);
+
+
+}
+.bt1{
+    background-color: rgb(241, 34, 34);
+    border-radius: 3%;
+    border-style: hidden;
+    color: white;
+
+}
+.bt2{
+    color: white;
+    border-radius: 3%;
+    border-style: hidden;
+    background-color: rgb(241, 34, 35);
+}
+
+.bt3{
+    width: 100px;
+}
+.btn12{
+    border-radius: 10px;
+    height: 45px;
+    background-color: black;
+    color: white;
+}
+.btn13{
+    border-radius: 10px;
+    height: 45px;
+    width: 100px;
+    background-color: black;
+    color: white;
+}
+.btn14{
+    border-radius: 10px;
+    height: 45px;
+    background-color: black;
+    color: white;
+}
+.btn12:hover{
+    background-color: gray;
+}
+.btn13:hover{
+    background-color: gray;
+}
+.btn14:hover{
+    background-color: gray;
+}
+.CONTACT .row{
+    color: white;
+}
+.bt3{
+    border-radius: 7px;
+    font-size: 20px;
+}
